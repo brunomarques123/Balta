@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9oS5fHUkgEwVd7HSFICVKeUizoHV8/H+j9CowHaUaK5v4r78RtSnfNP/5GyDOAOH+Ub8sIRXWY6hVGlGXEOloA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.conceicao\\Desktop\\Curso\\Balta\\Balta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.conceicao\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
